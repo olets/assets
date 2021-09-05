@@ -1,3 +1,3 @@
-# imgx-olets
+# assets
 
-A public web folder for olets.imgx.com
+Assets served on GitHub Pages.
